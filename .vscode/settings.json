@@ -1,0 +1,15 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./Numpy",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "Numpy"
+    ],
+    "docwriter.language": "Spanish"
+}
